@@ -2,3 +2,4 @@ bestand
 git push
 
 git pull to master.
+nu, terugsturen (dat is een deel van de opdracht.)
